@@ -61,7 +61,7 @@
 **Output** : A sequence of moves that solve the n-disk Towers of Hanoi puzzle.
 
 ## Problem 13 : Last Digit of the Sum of Squares of Fibonacci Numbers
-**Task** : Compute the last digit of F0^2 + F1^2 + ... + Fn^2.
+**Task** : Compute the last digit of F0^2 + F1^2 + ... + Fn^2. <br/>
 **Input** :  An integer 0 <= n <= 10^18. <br/>
 **Output** : The last digit of F0^2 + F1^2 + ... + Fn^2.
 
