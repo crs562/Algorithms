@@ -21,34 +21,29 @@
 **Output** : The last digit of the n-th Fibonacci number.
 
 ## Problem 5 : Greatest Common Divisor
-**Task** : Given two integers a and b, find their greatest common divisor. <br/>
-**Input** : The two integer a, b are given in the same line separated by space. <br/>
-**Constraints** : 1 <= a, b <= 2x10^9. <br/>
-**Output** : Output GCD(a, b). <br/>
+**Task** : Compute the greatest common divisor of two positive integers. <br/>
+**Input** : Two positive integers 1 <= a, b <= 2x10^9. <br/>
+**Output** : The greatest common divisor of a and b.
 
 ## Problem 6 : Least Common Multiple
-**Task** : Given two integers a and b, find their least common multiple. <br/>
-**Input** : The two integers a and b are given in the same line separated by space. <br/>
-**Constraints** : 1 <= a, b <= 2x10^9. <br/>
-**Output** : Output the least common multiple of a and b.
+**Task** : Compute the least common multiple of two positive integers. <br/>
+**Input** : Two positive integers 1 <= a, b <= 2x10^9. <br/>
+**Output** : The least common multiple of a and b.
 
-## Problem 7 : Fibonacci Number with Pisano Period
-**Task** : Given two integer n and m, output Fn mod m (that is, the reminder of Fn when divided by m). <br/>
-**Input** : The input consists of two integers n and m given on the same line (separated by a space). <br/>
-**Constraints** : 1 <= n <= 10^18, 2 <= m <= 10^5. <br/>
-**Output** : Output Fn mod m.
+## Problem 7 : Fibonacci Number Again
+**Task** : Compute the n-th Fibonacci number modulo m. <br/>
+**Input** : Integers 0 <= n <= 10^18 and 2 <= m <= 10^5. <br/>
+**Output** : n-th Fibonacci number modulo m.
 
 ## Problem 8 : Last Digit of the Sum of Fibonacci Numbers
-**Task** : Given an integer n, find the last digit of the sum F0 + F1 + ... + Fn. <br/>
-**Input** : The input consists of a single integer n. <br/>
-**Constraints** : 0 <= n <= 10^14. <br/>
-**Output** : Output the last digit of F0 + F1 + ... + Fn.
+**Task** : Compute the last digit of F0 + F1 + ... + Fn. <br/>
+**Input** : An integer 0 <= n <= 10^18. <br/>
+**Output** : The last digit of F0 + F1 + ... + Fn.
 
-## Problem 9 : Last Digit of the Sum of Fibonacci Numbers Again
-**Task** : Given two non-negative integers m and n, where m <= n, find the last digit of the sum Fm + Fm+1 + ... + Fn. <br/>
-**Input** : The input consists of two non-negative integers m and n separated by a space. <br/>
-**Constraints** : 0 <= m <= n <= 10^18. <br/>
-**Output** : Output the last digit of Fm + Fm+1 + ... + Fn.
+## Problem 9 : Last Digit of the Partial Sum of Fibonacci Numbers
+**Task** : Compute the last digit of Fm + Fm+1 + ... + Fn. <br/>
+**Input** : An integer 0 <= m <= n <= 10^18. <br/>
+**Output** : The last digit of Fm + Fm+1 + ... + Fn.
 
 ## Problem 10 : Sorting Problem
 **Task** : Sort a sequence of numbers into nondecreasing order. <br/>
@@ -57,13 +52,25 @@
 
 ## Problem 11 : Change Problem
 **Task** : Convert some amount of money into given denominations, using the smallest possible number of coins. <br/>
-**Input** : An integer money and an array of d denominations c = (c1, c2, ..., cd), in decreasing order of value (c1 > c2 > ... > cd). <br/>
+**Input** : An integer 1 <= money <= 10^3 and an array of d denominations c = (c1, c2, ..., cd), in decreasing order of value (c1 > c2 > ... > cd). <br/>
 **Output** : A list of d integers i1, i2, ..., id such that c1xi1 + c2xi2 + ... + cdxid = money, and i1 + i2 + ... + id is as small as possible.
 
 ## Problem 12 : Tower of Hanoi Problem
 **Task** : Output a list of moves that solves the Towers of Hanoi. <br/>
 **Input** : An integer n. <br/>
 **Output** : A sequence of moves that solve the n-disk Towers of Hanoi puzzle.
+
+## Problem 13 : Last Digit of the Sum of Squares of Fibonacci Numbers
+**Task** : Compute the last digit of F0^2 + F1^2 + ... + Fn^2.
+**Input** :  An integer 0 <= n <= 10^18. <br/>
+**Output** : The last digit of F0^2 + F1^2 + ... + Fn^2.
+
+## Problem 14 : Money Change
+**Task** : Compute the minimum number of coins needed to change the given value into coins with denomination 1, 5, and 10. <br/>
+**Input** : An integer 1 <= money <= 10^3. <br/>
+**Output** : The minimum number of coins with denominations 1, 5, and 10 that changes money.
+
+# --------------------------------------------------------------------------------------------------------------------------------------
 
 # Applications of Algorithms (You can try!!!)
 1. **The Human Genome Problem** : identifying all the 100,000 genes in human DNA, determining the sequences of the 3 billion chemical base pairs that make up human DNA, storing this information in databases, and developing tools for data analysis.
