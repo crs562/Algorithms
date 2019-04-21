@@ -22,36 +22,36 @@
 
 ## Problem 5 : Greatest Common Divisor
 **Task** : Given two integers a and b, find their greatest common divisor. <br/>
-**Input Format** : The two integer a, b are given in the same line separated by space. <br/>
+**Input** : The two integer a, b are given in the same line separated by space. <br/>
 **Constraints** : 1 <= a, b <= 2x10^9. <br/>
-**Output Format** : Output GCD(a, b). <br/>
+**Output** : Output GCD(a, b). <br/>
 
 ## Problem 6 : Least Common Multiple
 **Task** : Given two integers a and b, find their least common multiple. <br/>
-**Input Format** : The two integers a and b are given in the same line separated by space. <br/>
+**Input** : The two integers a and b are given in the same line separated by space. <br/>
 **Constraints** : 1 <= a, b <= 2x10^9. <br/>
-**Output Format** : Output the least common multiple of a and b.
+**Output** : Output the least common multiple of a and b.
 
 ## Problem 7 : Fibonacci Number with Pisano Period
 **Task** : Given two integer n and m, output Fn mod m (that is, the reminder of Fn when divided by m). <br/>
-**Input Format** : The input consists of two integers n and m given on the same line (separated by a space). <br/>
+**Input** : The input consists of two integers n and m given on the same line (separated by a space). <br/>
 **Constraints** : 1 <= n <= 10^18, 2 <= m <= 10^5. <br/>
-**Output Format** : Output Fn mod m.
+**Output** : Output Fn mod m.
 
 ## Problem 8 : Last Digit of the Sum of Fibonacci Numbers
 **Task** : Given an integer n, find the last digit of the sum F0 + F1 + ... + Fn. <br/>
-**Input Format** : The input consists of a single integer n. <br/>
+**Input** : The input consists of a single integer n. <br/>
 **Constraints** : 0 <= n <= 10^14. <br/>
-**Output Format** : Output the last digit of F0 + F1 + ... + Fn.
+**Output** : Output the last digit of F0 + F1 + ... + Fn.
 
 ## Problem 9 : Last Digit of the Sum of Fibonacci Numbers Again
 **Task** : Given two non-negative integers m and n, where m <= n, find the last digit of the sum Fm + Fm+1 + ... + Fn. <br/>
-**Input Format** : The input consists of two non-negative integers m and n separated by a space. <br/>
+**Input** : The input consists of two non-negative integers m and n separated by a space. <br/>
 **Constraints** : 0 <= m <= n <= 10^18. <br/>
-**Output Format** : Output the last digit of Fm + Fm+1 + ... + Fn.
+**Output** : Output the last digit of Fm + Fm+1 + ... + Fn.
 
 ## Problem 10 : Sorting Problem
-**Sorting Problem** : Sort a sequence of numbers into nondecreasing order. <br/>
+**Task** : Sort a sequence of numbers into nondecreasing order. <br/>
 **Input** : A sequence of n numbers <a1, a2, ..., an> <br/>
 **Output** : A permutation (reordering) <b1, b2, ..., bn> of the input sequence such that b1 <= b2 <= ... <= bn.
 
@@ -61,8 +61,8 @@
 **Output** : A list of d integers i1, i2, ..., id such that c1xi1 + c2xi2 + ... + cdxid = money, and i1 + i2 + ... + id is as small as possible.
 
 ## Problem 12 : Tower of Hanoi Problem
-**Task** : Output a list of moves that solves the Towers of Hanoi.
-**Input** : An integer n.
+**Task** : Output a list of moves that solves the Towers of Hanoi. <br/>
+**Input** : An integer n. <br/>
 **Output** : A sequence of moves that solve the n-disk Towers of Hanoi puzzle.
 
 # Applications of Algorithms (You can try!!!)
