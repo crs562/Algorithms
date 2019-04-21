@@ -55,6 +55,11 @@
 **Input** : A sequence of n numbers <a1, a2, ..., an> <br/>
 **Output** : A permutation (reordering) <b1, b2, ..., bn> of the input sequence such that b1 <= b2 <= ... <= bn.
 
+## Problem 11 : Change Problem
+**Task** : Convert some amount of money into given denominations, using the smallest possible number of coins. <br/>
+**Input** : An integer money and an array of d denominations c = (c1, c2, ..., cd), in decreasing order of value (c1 > c2 > ... > cd). <br/>
+**Output** : A list of d integers i1, i2, ..., id such that c1xi1 + c2xi2 + ... + cdxid = money, and i1 + i2 + ... + id is as small as possible.
+
 # Applications of Algorithms (You can try!!!)
 1. **The Human Genome Problem** : identifying all the 100,000 genes in human DNA, determining the sequences of the 3 billion chemical base pairs that make up human DNA, storing this information in databases, and developing tools for data analysis.
 2. **The Internet Information Problem** : Manage and manipulate the large volume of data, including finding good routes on which the data will travel, and using a search engin to quickly find pages on which particular information resides.
