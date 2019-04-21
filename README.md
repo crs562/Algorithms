@@ -1,32 +1,24 @@
 # Algorithms
 
 ## Problem 1 : Sum of Two Digits
-**Sum of Two Digits Problem** : Compute the sum of two single digit numbers. <br/>
+**Task** : Compute the sum of two single digit numbers. <br/>
 **Input** : Two single digit numbers. <br/>
 **Output** : The sum of these numbers. <br/>
-**Input format** : Integers a and b on the same line (separated by a space). <br/>
-**Output fromat** : The sum of a and b. <br/>
-**Constraints** : 0 <= a, b <= 9
 
 ## Problem 2 : Maximum Pairwise Product
-**Maximum Pairwise Product Problem** : Find the maximum product of two distinct numbers in a sequence of non-negative integers. <br/>
-**Input** : A sequence of non-negative integers. <br/>
+**Task** : Find the maximum product of two distinct numbers in a sequence of non-negative integers. <br/>
+**Input** : An integer 2 <= n <= 2x10^5 and a sequence of n non-negative integers. <br/>
 **Output** : The maximum value that can be obtained by multiplying two different elements from the sequence. <br/>
-**Input format** : The first line contains an integer n. The next line contains n non-negative integers a1,...,an (separated by spaces). <br/>
-**Output format** : The maximum pairwise product. <br/>
-**Constraints** : 2 <= n <= 2x10^5; 0 <= a1,...,an <= 2x10^5.
 
 ## Problem 3 : Fibonacci Number
-**Task** : Given an integer n, find the nth Fibonacci number Fn. <br/>
-**Input Format** : The input consists of a single integer n. <br/>
-**Constraints** : 0 <= n <= 45. <br/>
-**Output Format** : Output Fn.
+**Task** : Compute the n-th Fibonacci number. <br/>
+**Input** : An integer 0 <= n <= 45. <br/>
+**Output** : n-th Fibonacci number.
 
-## Problem 4 : Last Digit of a Large Fibonnacci Number
-**Task** : Given an integer n, find the last digit of the nth Fibonacci number Fn. (that is, Fn mod 10). <br/>
-**Input Format** : The input consists of a single integer n. <br/>
-**Constraints** : 0 <= n <= 10^7. <br/>
-**Output Format** : Output the last digit of Fn.
+## Problem 4 : Last Digit of Fibonnacci Number
+**Task** : Compute the last digit of the n-th Fibonacci number. <br/>
+**Input** : An integer 0 <= n <= 10^6. <br/>
+**Output** : The last digit of the n-th Fibonacci number.
 
 ## Problem 5 : Greatest Common Divisor
 **Task** : Given two integers a and b, find their greatest common divisor. <br/>
@@ -76,3 +68,13 @@
 10. List the parts in order so that each part appears before any part that uses it in mechnical desing.
 11. Find the convex hull of a n points in the plane.
 12. Find a discrete Fourier transform of a samples of signal.
+13. Find the best Assignment of Students to Dorm Rooms.
+14. Measure Similarity of Documents.
+15. Understand Natural Language.
+16. Identify Objects In Photographs.
+17. Play Games Well.
+18. Predicting Traffic Jams.
+19. Producing Automatic Movie Recommendations.
+20. Ranking Internet Search Results.
+21. Predicting road accidents.
+22. Developed a Study Rabit Populations.
