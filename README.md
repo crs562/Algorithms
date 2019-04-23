@@ -175,6 +175,11 @@
 **Input** : A sequence of n numbers A = <a1, a2, ..., an> and a value v. <br/>
 **Output** : An index i such that v = A[i] or the special value NIL if v does not appear in A.
 
+## Problem 36 : Add Two Binary Integers
+**Task** : Add two binary integers <br/>
+**Input**: Two n-element arrays A and B. <br/>
+**Output** : (n+1)-element array C.
+
 # --------------------------------------------------------------------------------------------------------------------------------------
 
 # Applications of Algorithms (You can try!!!)
