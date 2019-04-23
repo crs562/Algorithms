@@ -165,6 +165,11 @@
 **Input** : An arithmetic expression consisting of digits as well as plus, minus, and multiplication signs. <br/>
 **Output** : Add parantheses to the expression in order to maximize its value.
 
+## Problem 34 : Sorting Problem Again
+**Task** : Sort a sequence of numbers into nonincreasing order. <br/>
+**Input** : A sequence of n numbers <a1, a2, ..., an> <br/>
+**Output** : A permutation (reordering) <b1, b2, ..., bn> of the input sequence such that b1 >= b2 >= ... >= bn.
+
 # --------------------------------------------------------------------------------------------------------------------------------------
 
 # Applications of Algorithms (You can try!!!)
