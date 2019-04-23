@@ -170,6 +170,11 @@
 **Input** : A sequence of n numbers <a1, a2, ..., an> <br/>
 **Output** : A permutation (reordering) <b1, b2, ..., bn> of the input sequence such that b1 >= b2 >= ... >= bn.
 
+## Problem 35 : Searching Problem
+**Task** : Search a number in a sequence of numbers that are unsorted. <br/>
+**Input** : A sequence of n numbers A = <a1, a2, ..., an> and a value v. <br/>
+**Output** : An index i such that v = A[i] or the special value NIL if v does not appear in A.
+
 # --------------------------------------------------------------------------------------------------------------------------------------
 
 # Applications of Algorithms (You can try!!!)
